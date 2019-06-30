@@ -1,2 +1,4 @@
 # concap-app
-Mobile and laconic vesion of coincapp website.
+Упрощенная версия сайта coincap
+Берет данные по открытому API сайта и выводит в виде таблицы.
+Написано на Vue.js. Для обновления даных в реальном времени используются WebSockets
